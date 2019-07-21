@@ -363,7 +363,7 @@ module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"columns\">\n\n<div class=\"column is-6 is-offset-3\">\n<div class=\"content main-content\">\n<p>\n  Greetings, and welcome to my page!\n</p>\n<p>\n  I'm <strong>Aditya Bharadwaj</strong> and i live in <a  target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Bangalore\">Bangalore</a>.\n  I've build software for a living for over 10 years now, and\n  I currently work at <a target=\"_blank\" href=\"https://www.capillarytech.com/\">Capillary Technologies</a>.\n</p>\n<p>\n  I love to ride, indulge in photography and play games.\n</p>\n<!--p>You can reach out to me or watch me in action on these <a href=\"/about-me\">channels</a></p-->\n<app-about-me></app-about-me>\n</div>\n</div>\n</div>"
+module.exports = "<div class=\"columns\">\n\n<div class=\"column is-6 is-offset-3\">\n<div class=\"content main-content\">\n<p>\n  Greetings, and welcome to my page!\n</p>\n<p>\n  I'm <strong>Aditya Bharadwaj</strong> and i live in <a  target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Bangalore\">Bangalore</a>.\n  I build software for a living, and have been doing it for over a decade.\n  I currently work at <a target=\"_blank\" href=\"https://www.capillarytech.com/\">Capillary Technologies</a>.\n</p>\n<p>\n  I love to ride, indulge in photography and play games.\n</p>\n<!--p>You can reach out to me or watch me in action on these <a href=\"/about-me\">channels</a></p-->\n<app-about-me></app-about-me>\n</div>\n</div>\n</div>"
 
 /***/ }),
 
